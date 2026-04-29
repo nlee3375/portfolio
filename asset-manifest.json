@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86d04795.css",
+    "main.js": "/static/js/main.d3fbe6d2.js",
+    "static/media/Composite_Kiyoshi.png": "/static/media/Composite_Kiyoshi.1df8a23e5f6fb0752b0e.png",
+    "static/media/Composite_Tenshi.png": "/static/media/Composite_Tenshi.ca85312b043be87dc0c5.png",
+    "static/media/Composite_Momiji.png": "/static/media/Composite_Momiji.ee3a307c2a8670008b69.png",
+    "static/media/Kin&Kindle_Egg.png": "/static/media/Kin&Kindle_Egg.04d3d37ae1cb9dc12d7c.png",
+    "static/media/Composite_Katsumi.png": "/static/media/Composite_Katsumi.54a61799ff2115a15bdc.png",
+    "static/media/GP_Center Stage.png": "/static/media/GP_Center Stage.814b9f81b7770f498b86.png",
+    "static/media/GP_Digital Darlings.png": "/static/media/GP_Digital Darlings.8752bf1a9e79e7fa0d79.png",
+    "static/media/Kin&Kindle_Critters Sketches.png": "/static/media/Kin&Kindle_Critters Sketches.7ffa968e060ba0090754.png",
+    "static/media/Illustrator_Sylveon Poster.png": "/static/media/Illustrator_Sylveon Poster.d86daaf16ad7450a24cf.png",
+    "static/media/GP_Star Struck.png": "/static/media/GP_Star Struck.53ea157724873775bcd5.png",
+    "static/media/Kin&Kindle_Critters Pages.png": "/static/media/Kin&Kindle_Critters Pages.1156832bd2d671444893.png",
+    "static/media/Kin&Kindle_Logo.png": "/static/media/Kin&Kindle_Logo.a6a54c6318eff806d706.png",
+    "static/media/GP_Sketches.png": "/static/media/GP_Sketches.8a4f47cb0a0ea2267544.png",
+    "static/media/Nadia_Photo.jpg": "/static/media/Nadia_Photo.693c801194f06d7e4bd2.jpg",
+    "static/media/GP_Sketches2.png": "/static/media/GP_Sketches2.2d568f8d914ed6268655.png",
+    "static/media/SR_Task Page 1.png": "/static/media/SR_Task Page 1.921552ae85873481b56b.png",
+    "static/media/SR_Login Page.png": "/static/media/SR_Login Page.95be8b23f20b4266c346.png",
+    "static/media/SR_Task Page 2.png": "/static/media/SR_Task Page 2.612ead9191c5ddb9d199.png",
+    "static/media/Illustrator_Missy.png": "/static/media/Illustrator_Missy.0221416683cde3cb11a4.png",
+    "static/media/Illustrator_Bloo.png": "/static/media/Illustrator_Bloo.ad9c8f7236ed88f36b63.png",
+    "index.html": "/index.html",
+    "main.86d04795.css.map": "/static/css/main.86d04795.css.map",
+    "main.d3fbe6d2.js.map": "/static/js/main.d3fbe6d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86d04795.css",
+    "static/js/main.d3fbe6d2.js"
+  ]
+}
